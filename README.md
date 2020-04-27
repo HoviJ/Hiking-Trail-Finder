@@ -1,4 +1,4 @@
-### Title?
+# Hiking Trail Finder
 
 ## Blaze your trail!
 
