@@ -3,7 +3,7 @@
 Finding the beauties of nature is easier when you use the Hiking Trail Finder! Using GPS location, this application will display hiking 
 trails in your local area. It will also provide directions to your awaiting adventure!
 
-![Current Location](currentLocation.png =100X200) ![Search Bar](searchBar.png =100X200) ![Directions](directions.png =100X200) ![Trail Details](trailDetails.png =100X200)
+![Current Location](currentLocation.png | width=100) ![Search Bar](searchBar.png | width=100) ![Directions](directions.png | width=100) ![Trail Details](trailDetails.png | width=100)
 
 
 
