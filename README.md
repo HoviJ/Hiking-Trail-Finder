@@ -4,3 +4,9 @@ Finding the beauties of nature is easier when you use the Hiking Trail Finder! U
 trails in your local area. It will also provide directions to your awaiting adventure!
 
 <img src="currentLocation.png" width="200">  <img src="trailDetails.png" width="200"> <img src="searchBar.png" width="200"> <img src="directions.png" width="200">
+
+## Features
+- Displays your current location
+- Displays hiking trails in your area based on your current location
+- Uses Google Maps to provide directions to the trail
+- Allows you to search for a specific address
