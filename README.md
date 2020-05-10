@@ -10,6 +10,7 @@ trails in your local area. It will also provide directions to your awaiting adve
 - Displays hiking trails in your area based on your current location
 - Uses Google Maps to provide directions to the trail
 - Allows you to search for a specific address
+- Specify the distance to search for trails within
 
 <button onclick="window.open('finalDemo.gif')"> See the App in Action! </button>
 
