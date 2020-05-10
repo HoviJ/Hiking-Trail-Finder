@@ -11,4 +11,4 @@ trails in your local area. It will also provide directions to your awaiting adve
 - Uses Google Maps to provide directions to the trail
 - Allows you to search for a specific address
 
-<img src="finalDemo.gif" width="300">
+<button onclick="window.open('finalDemo.gif')"> See Features in Action! </button>
